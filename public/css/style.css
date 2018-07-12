@@ -1,0 +1,65 @@
+body {
+     height: 100%;
+ }
+
+html {
+    background: snow;
+
+
+}
+
+.kraantje {
+    margin-top: 10%;
+    background-image: url("_liup510_image_cropped_header.jpg");
+    height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+body {margin:0;}
+
+.navbar {
+    overflow: hidden;
+    background-color: crimson;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+}
+
+.topnav-right {
+    float: right;
+}
+
+footer {
+    margin-top: 300px;
+    width: 100%;
+    overflow: hidden;
+    background-color: crimson;
+}
+
+.foot {
+    margin: 1em;
+}
